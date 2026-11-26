@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="Major Bug">
+  <path fill="#f8ff38" d="M0 0h520v120H0z"/>
+  <path fill="none" stroke="#151317" stroke-width="10" stroke-linecap="square" stroke-linejoin="bevel" d="M18 65h20l11-26 14 51 12-29h21"/>
+  <path fill="#fb3f94" d="M13 55h16v7H13zm69 14h20v7H82z"/>
+  <text x="114" y="79" font-family="Impact,Arial Black,sans-serif" font-weight="900" font-size="63" textLength="388" lengthAdjust="spacingAndGlyphs" fill="#151317">MAJOR BUG</text>
+</svg>
